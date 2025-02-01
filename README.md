@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hey there! I'm Naveen Anantha
+🚀 Passionate Full-Stack Developer | Learning JavaScript, Node.js & Azure | Open to Opportunities
 
-<!--
-**NaveenAnantha/NaveenAnantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Enthusiastic developer with expertise in HTML, CSS, Bootstrap, and JavaScript, constantly exploring new technologies to enhance my skills. I’m committed to writing clean, efficient code and building responsive, user-friendly applications.
 
-Here are some ideas to get you started:
+💻 Tech Stack & Skills
+Languages: HTML5, JavaScript, Java, SQL
+Frameworks: Bootstrap, jQuery
+Tools: Git, GitHub, Visual Studio Code
+🚀 Projects
+🔹 Personal Portfolio – A showcase of my skills, experience, and projects.
+🔹 Static UI Design – A collection of UI design templates for inspiration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with Me
+🔗 LinkedIn | 🔗 GitHub
+
+⚡ Fun Fact: I love solving coding challenges and exploring AI tools!
