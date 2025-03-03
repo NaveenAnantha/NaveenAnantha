@@ -1,6 +1,6 @@
 👋 Hey there! I'm Naveen Anantha
 
-🚀 Passionate Full-Stack Developer | Learning JavaScript, Node.js & Azure | Open to Opportunities
+🚀 Passionate Full-Stack Developer | Learning React.js, Node.js & Azure | Open to Opportunities
 
 
 👨‍💻 Enthusiastic developer with expertise in HTML, CSS, Bootstrap, and JavaScript, constantly exploring new technologies to enhance my skills. I’m committed to writing clean, efficient code and building responsive, user-friendly applications.
