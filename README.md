@@ -1,30 +1,33 @@
 👋 Hey there! I'm Naveen Anantha
 
-🚀 Passionate Full-Stack Developer | Learning React.js, Node.js & Azure | Open to Opportunities
+🚀 Junior Application Developer | Building with React.js, Next.js, Node.js, Supabase, and Stripe | Exploring AI-assisted development with GitHub Copilot & Cursor
 
-
-👨‍💻 Enthusiastic developer with expertise in HTML, CSS, Bootstrap, and JavaScript, constantly exploring new technologies to enhance my skills. I’m committed to writing clean, efficient code and building responsive, user-friendly applications.
+👨‍💻 Enthusiastic developer with hands-on experience in frontend and backend development, API integrations, and authentication systems. Passionate about crafting scalable, user-friendly applications and integrating AI-powered features to enhance user experiences.
 
 
 💻 Tech Stack & Skills
 
-Languages: HTML5, JavaScript,TypeScript, SQL
+Frontend: React.js, Next.js, TypeScript, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript
 
-Frameworks: React,Express,BootStrap,jQuery
+Backend: Node.js, Express.js
 
-Backend: Node.js
+Database: MySQL, Supabase
 
-Tools: Git, GitHub, Visual Studio Code
+Cloud & APIs: Google APIs, REST APIs, Stripe Integration, SSO with Supabase
+
+AI & Tools: GitHub Copilot, Cursor (AI Code Editor), Prompt Engineering basics
+
+Version Control & IDEs: Git, GitHub, Visual Studio Code
 
 🚀 Projects
 
-🔹 DevFusion Solutions – A showcase of my skills, experience, Built an responsive and gsap animations for better user Experience and integrated Node.js and Nodemailer for Email Functionality.
+🔹 StandOutX (Client: Infuture.ai) – AI-powered career preparation platform helping students with roadmaps, journaling, and interview prep. Built frontend with Next.js + Tailwind CSS, integrated Supabase & APIs, and collaborated on AI-driven features.
 
-🔹 Personal Portfolio – A showcase of my skills, experience, and projects.
+🔹 Full-Stack Web App (Admin Form Handling) – Modern UI/UX with React, Express, TypeScript, and GSAP animations; integrated Nodemailer for automated email alerts.
 
-🔹 Static UI Design – A collection of UI design templates for inspiration.
+🔹 Award-Winning Website – Designed an interactive, accessible website with HTML5 & CSS3, achieving 100% accessibility score and improving page speed by 30%.
 
 📫 Connect with Me
-🔗 LinkedIn | 🔗 GitHub
+🔗 [LinkedIn](https://www.linkedin.com/in/naveenanatha-925884245/) | 🔗 [GitHub](https://github.com/NaveenAnantha)
 
-⚡ Fun Fact: I love solving coding challenges and exploring AI tools!
+⚡ Fun Fact: I love solving coding challenges, experimenting with AI tools, and building projects that make life easier.
